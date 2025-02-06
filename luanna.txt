@@ -1,0 +1,1 @@
+Markdown é um formato de simples de markup, isso é, de marcação de texto. A ideia é marcar um texto informando o que é importante, o que é um tópico, o que são links e imagens, sem a necessidade de utilizar marcações mais complexas, como o HTML. É um formato bastante trivial.
